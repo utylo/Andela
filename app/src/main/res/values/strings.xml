@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndelaChallenge</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_user_details">User Details</string>
+    <string name="user_name">utylo</string>
+    <string name="user_url">http://github.com/utylo</string>
+    <string name="user_name_full">Name: %s</string>
+    <string name="location_full">Location: Lagos</string>
+
+    <string name="user_url_full">URL: %s</string>
+    <string name="offline_text" translatable="true">Your Device appears to be Offline</string>
+    <string name="network_check">Can\'t Load news item. \nPlease check your internet connection. </string>
+    <string name="progress_text">Please wait...</string>
+    <string name="request_fail">"Request failed. Check your internet connection",</string>
+    <string name="bad_request">Bad Request</string>
+
+</resources>
